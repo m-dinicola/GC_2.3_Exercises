@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _2._3_GC_Exercises
 {
